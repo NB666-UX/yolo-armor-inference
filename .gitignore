@@ -1,0 +1,7 @@
+.venv/
+best.pt
+*.mp4
+*.avi
+*.mov
+__pycache___/
+
